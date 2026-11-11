@@ -5,7 +5,7 @@ I turn raw data into clear, decision-ready dashboards and reports in Power BI, a
 
 - 🎓 B.Sc. in Computer Information Systems, Taibah University
 - 🌍 Bilingual: Arabic and English. I build reports and dashboards in both.
-- 🔎 Open to entry-level data analyst roles in Riyadh
+- 🔎 Open to entry-level data analyst roles 
 
 ---
 
